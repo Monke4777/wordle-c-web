@@ -36,7 +36,7 @@ Once Stage 1 is complete, the static site will be hosted:
 | @apovilauskas | Exhibitor | Presents the final structure and mp4 of the demo, explain decisions |
 | @VlaSarnovskij | Designer (Frontend)| Creates the visual side, builds HTML, CSS layout |
 | [Name 3] | Builder (Backend) | Builds the functionality of code according to structure, implements C backend and frontend interactions |
-| [Name 3] | Critic | Reviews the code, structure and design, gives feedback on what to improve |
-| [Name 3] | Facilitator | Keeps the team organized and working smoothly, making sure deadlines are met |
+| Ernestas Pazdrazdis | Critic | Reviews the code, structure and design, gives feedback on what to improve |
+| Ernestas Pazdrazdis | Facilitator | Keeps the team organized and working smoothly, making sure deadlines are met |
 
 ---
